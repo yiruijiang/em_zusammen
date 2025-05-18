@@ -1,0 +1,17 @@
+[project]
+name = "mypackage"
+version = "0.1.0"
+description = "EM"
+authors = [
+  { name="yirui", email="yiruijiang123@gmail.com" }
+]
+dependencies = [
+  "pandas",
+  "numpy",
+  "matplotlib"
+  "ib_insync"
+]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
