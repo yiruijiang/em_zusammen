@@ -1,0 +1,5 @@
+""" """
+
+LOCAL_IP = "127.0.0.1"
+API_PORT = 7497
+CLIENT_ID = 1
