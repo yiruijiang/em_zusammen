@@ -1,1 +1,4 @@
 **/__pycache__/
+**/play.py
+**/build/
+**/*.egg-info/
