@@ -1,5 +1,5 @@
 [project]
-name = "mypackage"
+name = "em_zusammen"
 version = "0.1.0"
 description = "EM"
 authors = [
@@ -9,7 +9,6 @@ dependencies = [
   "pandas",
   "numpy",
   "matplotlib"
-  "ib_insync"
 ]
 
 [build-system]
