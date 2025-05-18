@@ -1,6 +1,6 @@
 import argparse
 
-from constant import API_PORT, CLIENT_ID, LOCAL_IP
+from em.source.constant import API_PORT, CLIENT_ID, LOCAL_IP
 from ib_insync import IB, Stock, util
 
 # Function registry

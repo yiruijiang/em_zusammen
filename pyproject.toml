@@ -1,5 +1,5 @@
 [project]
-name = "em_zusammen"
+name = "em"
 version = "0.1.0"
 description = "EM"
 authors = [
@@ -14,3 +14,7 @@ dependencies = [
 [build-system]
 requires = ["setuptools", "wheel"]
 build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["source"]
+package-dir = {"" = "em"}
