@@ -1,4 +1,4 @@
-* 🤴 EM zusammen 
+# 🤴 EM zusammen 
 
 儿子！👶
 1. run ```pip install -e . ``` in the folder first
